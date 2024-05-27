@@ -6,5 +6,3 @@ pip install pandas
 pip install pycaret
 pip install seaborn
 pip install scikit-learn
-pip install imblearn
-pip install xgboost
